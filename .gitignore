@@ -1,0 +1,63 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+*.lock
+
+# Hive local DB
+*.hive
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# macOS
+macos/Flutter/ephemeral/
+macos/.generated/
+macos/build/
+
+# Windows
+windows/flutter/ephemeral/
+windows/build/
+
+# Linux
+linux/flutter/ephemeral/
+linux/build/
+
+# Android
+android/.gradle/
+android/captures/
+android/.idea/
+android/local.properties
+android/build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+
+# Web
+web/manifest.json
+web/favicon.png
+web/icons/Icon-*.png
+web/.dart_tool/
+web/build/
+
+# PDF temporal (si se guarda alguno)
+*.pdf
+
+# Env files (si usas alguna API key)
+.env
+.env.*
